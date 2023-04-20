@@ -25,6 +25,7 @@ public class LeaderInArray {
 					System.out.println(A[i] + " is a leader");
 				}
 			}
+			//Output-: 17 is a leader
 		}
 
 	}

@@ -3,7 +3,7 @@ package com.solve;
 //program on counting notes from the given inputs(notes like 2000,500,200,100,50,5,1)
 public class CountCurrency {
 
-	public static void countCurrnecy(int amount) {
+	public static void countCurrnecy(int amount) {// amount=35786
 		int[] notes = new int[] { 2000, 500, 200, 100, 50, 5, 1 };
 		int a = notes.length;
 		int[] noteCounter = new int[a];

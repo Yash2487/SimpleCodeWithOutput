@@ -27,6 +27,7 @@ public class CountCurrency {
 		// calling method
 		countCurrnecy(35786);
 		/*
+		 * Output-:
 		 * Currency Count -> 
 		 * 2000 : 17 
 		 * 500 : 3 

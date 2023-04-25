@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-//Write a program to remove duplicates from arraylist.
+//Q. Write a program to remove duplicates from arraylist.
 public class RemoveDuplicatesSecond {
 
 	public static ArrayList<Integer> removeDuplicates() {

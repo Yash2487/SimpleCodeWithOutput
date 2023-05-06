@@ -32,7 +32,7 @@ public class ArrayEqualOrNot {
 	public static void main(String[] args) {
 		int arr1[] = { 3, 5, 2, 5, 2 };
 		int arr2[] = { 2, 3, 5, 5, 2 };
-		
+
 		if (areEqual(arr1, arr2)) {
 			System.out.println("Yes, Given Two Arrays Are Same");
 		} else {
